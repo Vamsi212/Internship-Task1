@@ -60,7 +60,7 @@ nmap --script=vuln 192.168.1.1
 
 	
 - **Screenshots:**
-
+![image alt](https://github.com/Vamsi212/Internship-Task1/blob/fa65baa975455b41412ba0ad46681453d54db11a/screenshots/screenshot1.png)
 
 
 ---
