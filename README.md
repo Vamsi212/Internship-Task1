@@ -14,13 +14,13 @@ Port scanning is a method used to identify open ports and services available on 
 
 ### 2. ⚙️ Environment Setup
 
-- **Operating System:** (e.g., Windows 11 / Kali Linux / Ubuntu WSL)
+- **Operating System:** Windows 11 / Kali Linux / Ubuntu WSL
     
-- **Nmap Version:** (e.g., 7.94)
+- **Nmap Version:** 7.94
     
-- **IP Range Used:** (e.g., 192.168.1.0/24)
+- **IP Range Used:**  192.168.1.0/24
     
-- **Local IP Address:** (e.g., 192.168.1.33)
+- **Local IP Address:** 192.168.1.33
     
 
 ---
