@@ -2,7 +2,7 @@
 
 **Task Name:** Scan Your Local Network for Open Ports  
 **Objective:** Discover open ports on devices in your local network to understand network exposure  
-**Tool(s) Used:** Nmap, NSE,  Wireshark 
+**Tools Used:** Nmap, NSE,  Wireshark 
 
 ---
 
@@ -63,11 +63,6 @@ nmap --script=vuln 192.168.1.1
 
 
 
-[[Pasted image 20250623130330.png]]
-
-
-[[Pasted image 20250623132115.png]]
-
 ---
 
 ### 5. 🔐 Security Analysis
@@ -75,13 +70,9 @@ nmap --script=vuln 192.168.1.1
 - Identify potentially risky open ports : 21 - FTP, 80 -HTTP , 443 - HTTPS
 - Identified Vulnerabilities (SEVERITY RISK Factor : HIGH)
 
-![[Pasted image 20250623133907.png]]
-
-![[Pasted image 20250623134007.png]]
 
 
 
-![[Pasted image 20250623134116.png]]
 
 - Suggestions for securing these ports (e.g., close unused ports, use firewall)
 
