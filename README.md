@@ -73,8 +73,13 @@ nmap --script=vuln 192.168.1.1
 - Identify potentially risky open ports : 21 - FTP, 80 -HTTP , 443 - HTTPS
 - Identified Vulnerabilities (SEVERITY RISK Factor : HIGH)
 
+![image alt](https://github.com/Vamsi212/Internship-Task1/blob/fa65baa975455b41412ba0ad46681453d54db11a/screenshots/screenshot3.png)
 
+![image alt](https://github.com/Vamsi212/Internship-Task1/blob/fa65baa975455b41412ba0ad46681453d54db11a/screenshots/screenshot4.png)
 
+![image alt](https://github.com/Vamsi212/Internship-Task1/blob/fa65baa975455b41412ba0ad46681453d54db11a/screenshots/screenshot5.png)
+
+![image alt](https://github.com/Vamsi212/Internship-Task1/blob/fa65baa975455b41412ba0ad46681453d54db11a/screenshots/screenshot6.png)
 
 
 - Suggestions for securing these ports (e.g., close unused ports, use firewall)
