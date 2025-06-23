@@ -63,10 +63,10 @@ nmap --script=vuln 192.168.1.1
 
 
 
-![[Pasted image 20250623130330.png]]
+[[Pasted image 20250623130330.png]]
 
 
-![[Pasted image 20250623132115.png]]
+[[Pasted image 20250623132115.png]]
 
 ---
 
