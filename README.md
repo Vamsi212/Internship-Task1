@@ -40,6 +40,8 @@ nmap --script=vuln 192.168.1.1
 - `-sS`: TCP SYN scan (stealthy and fast)
     
 - `192.168.1.0/24`: Scans all 256 IPs in the local subnet
+
+- `--script=vuln`: is an Nmap option that runs scripts to detect known vulnerabilities on a target system.
     
 
 ---
