@@ -112,17 +112,17 @@ nmap --script=vuln 192.168.1.1
 
 ### 6. 📘 Learnings
 
-Gained hands-on experience using Nmap for port and vulnerability scanning.
+- Gained hands-on experience using Nmap for port and vulnerability scanning.
 
-Understood the role of port scanning in identifying exposed services.
+- Understood the role of port scanning in identifying exposed services.
 
-Learned how attackers use scans to find weak points in a network.
+- Learned how attackers use scans to find weak points in a network.
 
-Detected real-world vulnerabilities like Heartbleed, POODLE, and CSRF.
+- Detected real-world vulnerabilities like Heartbleed, POODLE, and CSRF.
 
-Learned how to analyze scan results and recommend security fixes.
+- Learned how to analyze scan results and recommend security fixes.
 
-Improved skills in documentation and basic network security.
+- Improved skills in documentation and basic network security.
 
     
 
